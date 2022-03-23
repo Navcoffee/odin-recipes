@@ -1,1 +1,2 @@
 # odin-recipes
+Basic recipes website to apply the following knowledge: HTML headings, paragraphs and lists; setting up HTML boilerplate; Git basics (add, commit, push). Also made use of git reflog, rebase and cherry-pick to reword a previous commit.
